@@ -1,5 +1,5 @@
 const profile={
-    fullname:'shradhaKhapra',
+    fullname:'Anish Ranjan',
     isFollow:true,
     isMessage:false,
     post:195,
